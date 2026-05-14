@@ -1,0 +1,5 @@
+{
+  "workflow": "patient-followup",
+  "status": "development",
+  "description": "AI-powered patient engagement workflow"
+}
